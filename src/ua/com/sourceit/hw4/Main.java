@@ -1,5 +1,5 @@
 package ua.com.sourceit.hw4;
-
+//Oleksandr Romaniuk
 import java.math.BigDecimal;
 
 public class Main
